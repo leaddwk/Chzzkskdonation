@@ -2,20 +2,27 @@
 마인크래프트에서 Skript로 치지직 도네를 가져와 확장성 높은 스크립팅을 할 수 있도록 만들어 봤습니다
 [taromati](https://github.com/taromati)님의 [done-connector](https://github.com/taromati/done-connector)을 이용하여 치지직용으로 수정하였습니다
 done-connector의 config.xml도 작동하기 때문에 필요하신대로 맞춰 쓰시면 됩니다
+
 *훌륭하신 개발자 분들께 존경의 말씀을 드립니다*
 
 ## 설치 방법
 paper로 서버를 열어줍니다
+
 plugin 폴더에 Skript 2.10.2버전을 확인하시고 넣어줍니다
+
 이 프로젝트의 플러그인을 받아서 plugin폴더에 넣어줍니다
+
 한번 실행하고 나면 config.xml이 나옵니다
+
 적절히 수정하시고 서버를 켜시면 됩니다
 
 -서버를 켠 상태에서 config.xml만 다시 읽으려면 ```/done reload```를 입력하시면 됩니다
 
 ## 빌드
 Java 21
-Papermc(아무 버전이나 상관없으나 Skript플러그인의 버전을 맞춰야 합니다)
+
+Papermc(아무 버전이나 상관없으나 Skript플러그인의 버전을 맞춰야 합니다. 다른버전은 테스트 되지 않았으니 1.21.4버전(개발 당시 최신버전)을 권장합니다)
+
 Skript 2.10.2
 
 ## 예제 코드(example.sk)
