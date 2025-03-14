@@ -1,7 +1,7 @@
 name: DoneConnector
 version: '${version}'
 main: me.taromati.doneconnector.DoneConnector
-api-version: '1.19'
+api-version: '1.21'
 softdepend: [Skript]
 commands:
   done:
