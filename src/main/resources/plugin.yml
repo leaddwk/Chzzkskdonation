@@ -1,0 +1,9 @@
+name: DoneConnector
+version: '${version}'
+main: me.taromati.doneconnector.DoneConnector
+api-version: '1.19'
+softdepend: [Skript]
+commands:
+  done:
+    description: 후원 기능
+    usage: /done [on|off|reconnect|reload|add]

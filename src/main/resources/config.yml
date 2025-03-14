@@ -1,0 +1,10 @@
+치지직:
+  모라라:
+    식별자: 6bd0bb97d31365e7834d8113bb01d889
+    마크닉네임: 4arado
+
+랜덤 보상: false
+후원 보상:
+  0:
+    - say [pl] [%tag%] %name%님이 %amount%후원! > %message%
+디버그: false
