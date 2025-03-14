@@ -30,12 +30,16 @@ on chzzk donation:
 
 ## 사용할 수 있는 것들
 on chzzk donation:
--치지직 도네가 왔을때 실행합니다 \n
+-치지직 도네가 왔을때 실행합니다
+
 chzzk donation tag
 -config.xml에서 설정한 마크 닉네임입니다
+
 chzzk donation nickname
 -후원을 한 사람의 이름입니다("익명의 후원자"는 "익명"으로 표시됩니다)
+
 chzzk donation amount
 -치즈 값을 긇어옵니다
+
 chzzk donation message
 -도네 메세지를 긇어옵니다
