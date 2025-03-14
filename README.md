@@ -30,7 +30,7 @@ on chzzk donation:
 
 ## 사용할 수 있는 것들
 on chzzk donation:
--치지직 도네가 왔을때 실행합니다
+-치지직 도네가 왔을때 실행합니다 \n
 chzzk donation tag
 -config.xml에서 설정한 마크 닉네임입니다
 chzzk donation nickname
