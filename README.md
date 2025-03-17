@@ -1,5 +1,5 @@
 # Chzzkskdonation
-마인크래프트에서 Skript로 치지직 도네를 가져와 확장성 높은 스크립팅을 할 수 있도록 만들어 봤습니다
+마인크래프트에서 Skript로 치지직 도네를 가져와 스크립팅을 할 수 있도록 만들어 봤습니다
 [taromati](https://github.com/taromati)님의 [done-connector](https://github.com/taromati/done-connector)을 이용하여 치지직용으로 수정하였습니다
 done-connector의 config.xml도 작동하기 때문에 필요하신대로 맞춰 쓰시면 됩니다
 
